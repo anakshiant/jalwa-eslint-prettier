@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "yo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint":"eslint src/**/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anakshiant/jalwa-eslint-prettier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anakshiant/jalwa-eslint-prettier/issues"
+  },
+  "homepage": "https://github.com/anakshiant/jalwa-eslint-prettier#readme",
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "prettier": "^2.1.2"
+  }
+}

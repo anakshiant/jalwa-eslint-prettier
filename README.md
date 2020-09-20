@@ -1,2 +1,7 @@
 # jalwa-eslint-prettier
-yo
+
+this is the repository to demo the usage of prettier and eslint
+
+```
+  npm install
+```
