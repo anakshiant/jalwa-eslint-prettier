@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "msjsdiag.debugger-for-chrome",
+    "lllllllqw.jsdoc",
+    "streetsidesoftware.code-spell-checker",
+    "ritwickdey.liveserver",
+    "esbenp.prettier-vscode",
+    "zhuangtongfa.material-theme",
+    "dbaeumer.vscode-eslint"
+  ]
+}
